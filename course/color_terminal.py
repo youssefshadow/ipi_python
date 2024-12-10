@@ -18,5 +18,5 @@ def random_color_text(text):
     return f"{fg_color}{bg_color}{text}{rs.all}"  
 
 
-print(random_color_text("Hello, bad World!"))
-print(random_color_text("This is a random colored damn  text."))
+print(random_color_text("Hello, bad World! 😅"))
+print(random_color_text("This is a random colored damn  text 😁"))
