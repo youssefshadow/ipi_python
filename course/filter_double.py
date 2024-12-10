@@ -1,3 +1,5 @@
+
+
 numbers = [8, 7, 11, 2, 10, 5, 8]
 
 # Méthode 1 : Utilisation d'un ensemble
